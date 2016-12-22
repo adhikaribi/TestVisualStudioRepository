@@ -14,6 +14,7 @@ namespace TestProjectFromVS
             // local changes from VS
             // some more changes last change
             // changes from Feature1.1
+            // feature 1.1 additional changes
         }
     }
 }
