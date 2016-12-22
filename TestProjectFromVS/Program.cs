@@ -13,6 +13,7 @@ namespace TestProjectFromVS
             // started the change
             // local changes from VS
             // some more changes last change
+            // changes from Feature1.1
         }
     }
 }
