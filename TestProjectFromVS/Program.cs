@@ -11,6 +11,7 @@ namespace TestProjectFromVS
         static void Main(string[] args)
         {
             // started the change
+            // local changes from VS
         }
     }
 }
